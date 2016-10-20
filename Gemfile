@@ -7,6 +7,7 @@ gem 'rmagick'
 gem 'carrierwave', '~> 0.11.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
 gem 'autoprefixer-rails', '~> 6.5', '>= 6.5.1'
+gem 'lightbox2-rails'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
