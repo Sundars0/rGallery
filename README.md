@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<p>A simple Gallery application with CRUD functionality(no login logout)</p>
+</br>
+<p>image Galery with categories</p>
+<p>image with title and description</p>
+<p>image will open in a lightbox</p>
+</br>
+<p>The following gems have been added</p>
+<p>gem 'rmagick'</p>
+<p>gem 'carrierwave'</p>
+<p>gem 'bootstrap-sass'</p>
+<p>gem 'autoprefixer-rails'</p>
