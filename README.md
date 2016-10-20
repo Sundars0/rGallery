@@ -1,6 +1,6 @@
 # README
 
-<p>A simple Gallery application with CRUD functionality(no login logout)</p>
+<p>A simple Gallery application created using Rails with CRUD functionality(no login logout)</p>
 </br>
 <p>image Galery with categories</p>
 <p>image with title and description</p>
